@@ -2,10 +2,10 @@
 <a href="https://anns.es"> <img src="http://img.anns.es/git-head.png" alt="anns"> </a>
 
 <!-- TITLE -->
-# TITLE [v.0.0.1]
+# Slide Clock [v.1.0.0]
 
 <!-- DESCRIPTION -->
-#### *DESCRIPTION*
+#### *Slide Clock 24 hours format.*
 
 
 <!-- ABOUT APP -->
