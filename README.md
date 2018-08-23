@@ -1,5 +1,6 @@
 <!-- HEADER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git-head.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://git.anns.es/img/git-head.png" alt="anns"> </a>
+
 
 <!-- TITLE -->
 # Slide Clock [v.1.0.0]
@@ -8,8 +9,9 @@
 #### *Slide Clock 24 hours format.*
 
 
-<!-- ABOUT APP -->
-## **SCREENSHOT** <img src="http://img.anns.es/git-head.png" alt="anns">
+<!-- Screenshot -->
+## Screenshot
+<img src="http://git.anns.es/slide_clock/library/img/screenshot.png" alt="screenshot" width="516px">
 
 
 <!-- INSTALLATION -->
@@ -24,6 +26,12 @@ To install only do you need move files to your web space.
 Direct GitHub download in this [LINK](https://github.com/andresbarrones/slide_clock/archive/master.zip).
 
 
+<!-- LICENCE -->
+## License
+
+Released under the [GNU GPL v3](LICENSE).
+
+
 <!-- OTHER INFO -->
 ## Other Info
 
@@ -34,12 +42,6 @@ This code is written in Spanish and automatically translated by google translate
 You can find more about me on my website → <a href="https://anns.es">https://anns.es</a>
 
 
-<!-- LICENCE -->
-## License
-
-Released under the [GNU GPL v3](LICENSE).
-
-
-
+<br>
 <!-- FOOTER -->
-<a href="https://anns.es"> <img src="http://img.anns.es/git-footer.png" alt="anns"> </a>
+<a href="https://anns.es"> <img src="http://git.anns.es/img/git-footer.png" alt="footer"> </a>
