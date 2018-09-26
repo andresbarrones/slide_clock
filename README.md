@@ -11,7 +11,7 @@
 
 <!-- Screenshot -->
 ## Screenshot
-<img src="http://img.anns.es/slide_clock/library/img/screenshot.png" alt="screenshot" width="516px">
+<img src="http://code.anns.es/slide_clock/library/img/screenshot.png" alt="screenshot" width="516px">
 
 
 <!-- INSTALLATION -->
